@@ -2,7 +2,7 @@ The VBA of Wall Street
 
 Background
 
-We will use VBA scripting to analyze real stock market data. 
+We used VBA scripting to analyze real stock market data. 
 
 The daa resources:
 * [Test Data](Resources/alphabtical_testing.xlsx) - 
