@@ -4,7 +4,7 @@ Background
 
 We used VBA scripting to analyze real stock market data. 
 
-The daa resources:
+The data resources:
 * [Test Data](Resources/alphabtical_testing.xlsx) - 
 
 * [Stock Data](Resources/Multiple_year_stock_data.xlsx) - 
